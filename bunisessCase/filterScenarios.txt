@@ -1,0 +1,50 @@
+Test Case 1: Verify Filter by Disease
+
+Test Steps:
+
+Open the medical appointment app homepage.
+Select "Heart Disease" from the "Disease/Specialty/Name" dropdown.
+Click the "Search" button.
+Expected Result:
+
+Ensure that the list of displayed medical professionals is filtered to show only those who specialize in Heart Disease.
+Test Case 2: Verify Filter by Specialty
+
+Test Steps:
+
+Open the medical appointment app homepage.
+Select "Dermatology" from the "Disease/Specialty/Name" dropdown.
+Click the "Search" button.
+Expected Result:
+
+Ensure that the list of displayed medical professionals is filtered to show only those specializing in Dermatology.
+Test Case 3: Verify Filter by Name
+
+Test Steps:
+
+Open the medical appointment app homepage.
+Enter "Dr. Smith" in the "Disease/Specialty/Name" dropdown.
+Click the "Search" button.
+Expected Result:
+
+Ensure that the list of displayed medical professionals is filtered to show only those with the name "Dr. Smith."
+Test Case 4: Verify Filter by City
+
+Test Steps:
+
+Open the medical appointment app homepage.
+Select "New York" from the "City/Region" dropdown.
+Click the "Search" button.
+Expected Result:
+
+Ensure that the list of displayed medical professionals is filtered to show only those available in New York.
+Test Case 5: Verify Filter by Region
+
+Test Steps:
+
+Open the medical appointment app homepage.
+Select "Midwest" from the "City/Region" dropdown.
+Click the "Search" button.
+Expected Result:
+
+Ensure that the list of displayed medical professionals is filtered to show only those available in the Midwest region.
